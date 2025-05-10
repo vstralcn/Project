@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	cout << "Hello, my project!" << endl;
+	cout << "The fitst project!" << endl;
 	return 0;
 
 }
